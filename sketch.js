@@ -60,7 +60,7 @@ sword.scale=0.2
 
 function draw(){
   
-background("red")
+background("blue")
   
   if(gameState===PLAY){
     
